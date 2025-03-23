@@ -1,0 +1,37 @@
+[
+  {
+    "id": 1,
+    "name": "Juan",
+    "lastname": "Perez",
+    "email": "jp@mail.com",
+    "courseId": 1
+  },
+  {
+    "id": 2,
+    "name": "Maria",
+    "lastname": "Gonzales",
+    "email": "maria.gonzales@example.com",
+    "courseId": 2
+  },
+  {
+    "id": 3,
+    "name": "Pedro",
+    "lastname": "Lopez",
+    "email": "pedro.lopez@example.com",
+    "courseId": 1
+  },
+  {
+    "id": 4,
+    "name": "Ana",
+    "lastname": "Martinez",
+    "email": "ana.martinez@example.com",
+    "courseId": 3
+  },
+  {
+    "id": 5,
+    "name": "Carlos",
+    "lastname": "Sánchez",
+    "email": "carlos.sanchez@example.com",
+    "courseId": 2
+  }
+]

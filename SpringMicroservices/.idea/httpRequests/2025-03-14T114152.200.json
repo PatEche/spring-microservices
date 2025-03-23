@@ -1,0 +1,27 @@
+[
+  {
+    "id": 1,
+    "name": "Matematicas",
+    "teacher": "Profesor A"
+  },
+  {
+    "id": 2,
+    "name": "Historia",
+    "teacher": "Profesor B"
+  },
+  {
+    "id": 3,
+    "name": "Ciencias",
+    "teacher": "Profesor C"
+  },
+  {
+    "id": 4,
+    "name": "Literatura",
+    "teacher": "Profesor D"
+  },
+  {
+    "id": 5,
+    "name": "Educacion Fisica",
+    "teacher": "Profesor E"
+  }
+]

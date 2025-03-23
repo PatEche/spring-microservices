@@ -1,0 +1,135 @@
+GET http://localhost:8090/api/student/search/2
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.13 (Java/17.0.6)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+<> 2025-03-14T114813.200.json
+
+###
+
+GET http://localhost:8090/api/student/search/2
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.13 (Java/17.0.6)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+<> 2025-03-14T114805.200.json
+
+###
+
+GET http://localhost:8090/api/student/search/1
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.13 (Java/17.0.6)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+<> 2025-03-14T114745.200.json
+
+###
+
+GET http://localhost:8090/api/student/1
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.13 (Java/17.0.6)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+<> 2025-03-14T114720.404.json
+
+###
+
+GET http://localhost:9090/api/course/search/1
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.13 (Java/17.0.6)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+<> 2025-03-14T114214.200.json
+
+###
+
+GET http://localhost:9090/api/course/all
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.13 (Java/17.0.6)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+<> 2025-03-14T114152.200.json
+
+###
+
+GET http://localhost:8090/api/student/search/2
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.13 (Java/17.0.6)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+<> 2025-03-14T114022.500.json
+
+###
+
+GET http://localhost:8090/api/student/search/1
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.13 (Java/17.0.6)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+<> 2025-03-14T113918.500.json
+
+###
+
+GET http://localhost:8090/api/student/all
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.13 (Java/17.0.6)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+<> 2025-03-14T113901.200.json
+
+###
+
+GET http://localhost:8090/api/student/search/1
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.13 (Java/17.0.6)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+<> 2025-03-14T113320.500.json
+
+###
+
+GET http://localhost:8090/api/student/all
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.13 (Java/17.0.6)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+<> 2025-03-14T113222.200.json
+
+###
+
+GET http://localhost:8090/api/student/search/1
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.13 (Java/17.0.6)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+<> 2025-03-14T112640.500.json
+
+###
+
+GET http://localhost:8090/api/student/search/1
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.13 (Java/17.0.6)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+<> 2025-03-14T112418.500.json
+
+###
+
+GET http://localhost:8090/api/student/1
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.13 (Java/17.0.6)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+<> 2025-03-14T112336.404.json
+
+###
+
+GET http://localhost:8090/api/student/all
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.13 (Java/17.0.6)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+<> 2025-03-14T112319.200.json
+
+###
+
