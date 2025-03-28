@@ -1,24 +1,26 @@
+# Spring Cloud Microservices🚀
 
-#  Spring Cloud Microservices 
+This tutorial will teach you how to implement the **Spring Cloud Framework** and its architecture.
 
-**In this tutorial I'll teach you how to implement Spring Cloud Framework and the architecture.**
+## Architecture Overview
 
-<p>
+### 🔹 Gateway
+Acts as the entry point for external requests. It routes incoming traffic to the appropriate microservice.
 
-### Gateway: 
-- When recive a request from internet will be redirect to microservice that correspond.
+### 🔹 Eureka (Service Discovery)
+Registers each microservice using its **IP address** and **port**, based on the name specified in the `yml` configuration file.
 
-### Eureka:
-- Register ip and port of each microservice with his name indicate in the yml file. 
+### 🔹 Config Server
+Manages and stores the configuration of each microservice, ensuring consistency across the system.
 
-### Config: 
-- Manage and save the configuration of each microservice.
+## Microservices
 
-###  Microservice course:
-- This microservice manage courses and teachers.
+### 📌 Microservice: Course
+Handles operations related to **courses** and **teachers**.
 
-### Microservice student
-- This microservice manage students and their course.
+### 📌 Microservice: Student
+Manages **students** and their associated courses.
 
+---
 
-</p>
+ 
